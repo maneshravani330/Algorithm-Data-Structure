@@ -1,4 +1,5 @@
-package data_structure;
+package exam;
+
 import java.util.Scanner;
 
 class Student {
